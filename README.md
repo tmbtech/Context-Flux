@@ -1,9 +1,4 @@
-# React-SystemJs-jspm-starter
-
-This is a minimal start for using systemjs and jspm when building react components.
-
-This is not meant to be using in production, but as a starting point to making test 
-apps that are compiled using babel in the browser
+This is a working example of @ryanflorence context flux example https://gist.github.com/ryanflorence/2eaf456fc62acc73894a 
 
 ## Install
 * clone this repository 
